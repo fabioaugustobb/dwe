@@ -8,10 +8,16 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title></title>
+        <link href="teste.css" rel="stylesheet">
+        
     </head>
     <body>
+        
+        <p> teste</p> 
         <?php
-        // put your code here
+        
+        echo "DWE";
+        
         ?>
     </body>
 </html>
